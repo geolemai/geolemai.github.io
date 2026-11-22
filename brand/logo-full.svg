@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 220" role="img" aria-label="Geoለም AI">
+  <title>Geoለም AI</title>
+  <!-- mark (same artwork as logo-mark.svg, static) -->
+  <svg x="0" y="10" width="200" height="200" viewBox="12 -11 202 202" overflow="visible">
+    <defs><clipPath id="disc"><circle cx="100" cy="100" r="84"/></clipPath></defs>
+    <g clip-path="url(#disc)">
+      <rect width="200" height="200" fill="#0A5C3C"/>
+      <path d="M0 92 Q100 52 200 92 L200 200 L0 200 Z" fill="#10804F"/>
+      <path d="M0 130 Q100 90 200 130 L200 200 L0 200 Z" fill="#1FA463"/>
+      <path d="M0 166 Q100 126 200 166 L200 200 L0 200 Z" fill="#5CCB7E"/>
+    </g>
+    <path d="M81.2 56.0 L85.6 59.3 L89.9 57.6 L91.7 59.1 L96.7 59.2 L103.0 62.1 L104.9 64.7 L108.1 67.0 L111.1 71.3 L113.6 73.6 L111.1 76.9 L108.6 80.3 L109.2 82.3 L109.3 84.5 L113.4 84.7 L115.1 84.1 L116.7 85.4 L115.1 88.0 L117.8 92.0 L120.5 95.6 L123.3 98.2 L147.2 106.8 L153.3 106.8 L132.7 128.7 L123.2 129.0 L116.7 134.2 L112.0 134.3 L110.0 136.6 L105.0 136.6 L102.1 134.1 L95.4 137.2 L93.2 140.2 L88.4 139.7 L86.8 138.8 L85.1 139.0 L82.7 138.9 L73.5 132.7 L68.4 132.7 L65.9 130.3 L65.9 126.2 L62.1 125.0 L57.8 117.1 L54.5 115.4 L53.2 112.5 L49.5 108.9 L45.0 108.4 L47.5 104.2 L51.4 104.0 L52.5 101.8 L52.4 95.2 L54.5 87.6 L58.0 85.6 L58.7 82.6 L61.9 77.0 L66.3 73.4 L69.2 66.2 L70.4 59.9 L78.9 61.5 Z" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2.5" stroke-linejoin="round"/>
+    <path d="M162.5 18.4 A26 26 0 0 1 183.6 39.5" fill="none" stroke="#F2B233" stroke-width="6" stroke-linecap="round"/>
+    <path d="M164.6 6.6 A38 38 0 0 1 195.4 37.4" fill="none" stroke="#F2B233" stroke-width="6" stroke-linecap="round" opacity=".7"/>
+    <path d="M166.7 -5.2 A50 50 0 0 1 207.2 35.3" fill="none" stroke="#F2B233" stroke-width="6" stroke-linecap="round" opacity=".4"/>
+    <circle cx="158" cy="44" r="17" fill="#F2B233" stroke="#FFFFFF" stroke-width="7"/>
+  </svg>
+  <!-- wordmark -->
+  <text x="236" y="138" font-family="'Plus Jakarta Sans','Noto Sans Ethiopic','Nyala','Ebrima',Arial,sans-serif" font-size="120" font-weight="800" letter-spacing="-4">
+    <tspan fill="#0F1A14">Geo</tspan><tspan fill="#10804F" font-family="'Noto Sans Ethiopic','Nyala','Ebrima',sans-serif" letter-spacing="-2">ለም</tspan><tspan fill="#0F1A14" font-weight="400" dx="18" letter-spacing="-3">AI</tspan>
+  </text>
+  <text x="240" y="184" textLength="560" lengthAdjust="spacing" font-family="'Plus Jakarta Sans',Arial,sans-serif" font-size="16" font-weight="600" fill="#4A5650">SATELLITE INTELLIGENCE FOR EVERY FARM</text>
+</svg>
